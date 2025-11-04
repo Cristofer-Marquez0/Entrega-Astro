@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Primera Era",
+      "image": "/Tarjetas/tarjetape.png",
+      "link": "/primeraera.html"
+    },
+    {
+      "name": "Primer Bloque",
+      "image": "/Tarjetas/tarjetapb.png",
+      "link": "/primerbloque.html"
+
+    },
+    {
+      "name": "Furia Extendido",
+      "image": "/Tarjetas/tarjetafuriax.png",
+      "link": "/furiax.html"
+    },
+    {
+      "name": "Imperio",
+      "image": "/Tarjetas/tarjetamperio.png",
+      "link": "/imperio.html"
+    }
+  ]
+  

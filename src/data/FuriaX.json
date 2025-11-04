@@ -1,0 +1,8 @@
+[
+    {"nombre": "Roma","descripcion": "una colección que revive la grandeza del imperio, donde césares, legiones y dioses forjan el destino de una civilización eterna bajo el mando de Julio César y su legado inmortal.","imagen": "/FuriaExtendido/roma.png"},
+    {"nombre": "Excalibur","descripcion": "Colección que revive las leyendas artúricas, donde Merlín, los caballeros de la Mesa Redonda y el poder de la espada sagrada forjan el destino del reino de Camelot.","imagen": "/FuriaExtendido/excalibur.png"},
+    {"nombre": "Troya","descripcion":"Una colección que revive la épica Troya, donde héroes y dioses luchan por la gloria y el destino de la legendaria ciudad.","imagen":"/FuriaExtendido/troya.png"},
+    {"nombre": "Hijos Del Sol","descripcion":"celebra la grandeza de la cultura mesoamericana, donde guerreros, sacerdotes y deidades luchan bajo la luz del sol por poder, conocimiento y tradición ancestral.", "imagen": "/FuriaExtendido/hijos.png"},
+    {"nombre":"Guardianes De Daana", "descripcion":"Narra la historia y mitología de las tierras altas de Europa, donde defensores del Úlster, guerreros Sidhe, Tuatha Dé Danann y fomorianos luchan por proteger su legado ancestral.", "imagen": "/FuriaExtendido/guardianes.png"},
+    {"nombre": "Furia", "descripcion": "Colecciona lo mejor de toda esta gran aventura y ve las historias de heroes nordicos y sumerios", "imagen": "/FuriaExtendido/furia.png"}
+]

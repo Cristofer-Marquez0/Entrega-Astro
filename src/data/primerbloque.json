@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Espada Sagrada",
+        "descripcion": "Sé aquel a quien Merlín guió, y empuña la legendaria Excalibur junto a caballeros, hadas y dragones.",
+        "imagen": "/Primerbloque/espadasagrada.png"
+    },
+    {
+        "nombre": "Helenica",
+        "descripcion": "Honra la grandeza de la mitología griega y romana, reuniendo a dioses olímpicos, titanes primordiales y héroes inmortales en un mismo legado divino.",
+        "imagen": "/Primerbloque/helenica.png"
+    },
+    {
+        "nombre":"Hijos De Daana",
+        "descripcion": "Una colección que evoca las antiguas leyendas celtas, donde defensores del Úlster, dioses daneses desafiantes y guerreros fomorianos de la sombra luchan por el destino de las tierras sagradas.",
+        "imagen": "/Primerbloque/hijosdedaana.png"
+    },
+    {
+        "nombre": "Dominios De Ra",
+        "descripcion":"Una colección que resplandece con el poder del antiguo Egipto, donde faraones, dioses eternos y sabios sacerdotes gobiernan bajo la mirada del Sol divino.",
+        "imagen": "/Primerbloque/dominiosdera.png"
+    }
+]

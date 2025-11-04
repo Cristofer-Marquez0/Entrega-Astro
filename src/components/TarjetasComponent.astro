@@ -1,0 +1,22 @@
+---
+import tarjetas from "../data/tarjetas.json";
+---
+
+<section class="p-6">
+  <h2 class="text-2xl font-bold mb-4">Sección de Tarjetas</h2>
+  
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 justify-center">
+    {tarjetas.map((item) => (
+      <div class="w-[343px] h-[343px] bg-white rounded-xl overflow-hidden shadow-lg flex flex-col">
+        <img 
+          src={item.image} 
+          alt={item.name} 
+          class="w-full h-[260px] object-cover" 
+        />
+        <div class="flex-1 flex items-center justify-center p-2 text-center font-semibold text-gray-800">
+          {item.name}
+        </div>
+      </div>
+    ))}
+  </div>
+</section>

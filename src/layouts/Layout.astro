@@ -1,22 +1,30 @@
+---
+import "../styles/global.css";
+import HeaderComponent from "../components/HeaderComponent.astro";
+import FooterComponent from "../components/FooterComponent.astro";
+import ItemMenuComponents from "../components/ItemMenuComponents.astro";
+import TituloComponent from "../components/TituloComponent.astro";
+---
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
-	</body>
-</html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Astro Basics</title>
+  </head>
+  <body class="flex flex-col min-h-screen bg-cover bg-center" style="background-image: url('/src/assets/image/fondo.jpg');">
 
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
-</style>
+    <!-- Header fijo arriba -->
+    <HeaderComponent />
+
+    <!-- Contenido principal que empuja el footer -->
+    <main class="flex-grow">
+      <slot />
+    </main>
+
+    <!-- Footer siempre abajo -->
+    <FooterComponent />
+  </body>
+</html>

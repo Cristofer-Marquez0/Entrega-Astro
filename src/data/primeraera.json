@@ -1,0 +1,33 @@
+[
+    {
+        "nombre": "El Reto",
+        "descripcion": "El Reto es una edicion conformada por leyendas principalmente arturicas teniendo como personajes principales honorables caballeros, hadas astutas y poderososo dragones",
+        "imagen": "/Primeraera/elreto.png"
+    },
+    {
+        "nombre": "Mundo Gotico",
+        "descripcion": "En Mundo Gotico podras encontrarte con conocidos cazadores de bestias de la noche, salvajes licantropos e insaciables vampiros",
+        "imagen": "/Primeraera/mundogotico.png"
+    },
+    {
+        "nombre": "Ira del Nahual",
+        "descripcion": "Con esta edicion podras conocer la verdadera ira de la cultura MesoAmericana usando a los ferozes guerreros aztecas, los sabios chamanes mapuches y los peligrosos mitos chilotes",
+        "imagen": "/Primeraera/iradelnahual.png"
+    },
+    {
+        "nombre": "Ragnarok",
+        "descripcion": "Siente el poder de Thor y la astucia de Loki al momento de combatir junto a los dioses de Asgard, los gigantes de hielo de Jötunheim o los barbaros y sus armas en Midgard",
+        "imagen": "/Primeraera/ragnarok.png"
+    },
+    {
+        "nombre": "La Cofradia",
+        "descripcion": "Con esta recopilacion concentraras todo el poder de los astutos duendes, la sabiduria de los chamanes e incluso la ferocidad que solo un barbaro y un licantropo pueden entregarte",
+        "imagen": "/Primeraera/cofradia.png"
+    },
+    {
+        "nombre": "Espiritu Del Dragon",
+        "descripcion": "Disfruta de la cultura oriental junto a los Kami, las tenebrosas Criaturas, los inmortales Xian y los honorables e imparables Campeones",
+        "imagen": "/Primeraera/espiritudedragon.png"
+    }
+
+]

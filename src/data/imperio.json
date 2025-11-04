@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "Napoleon",
+        "descripcion": "Una colección que revive la era de los imperios y las conquistas, donde estrategas, generales y héroes se enfrentan por la gloria y el poder bajo el estandarte del gran corso.",
+        "imagen": "/Imperio/napoleon.png"
+    },
+    {
+        "nombre": "Espiritu Samurai",
+        "descripcion": "Una colección que honra el código del bushido, donde valientes guerreros, sabios monjes y ancestrales espíritus luchan por el honor, la lealtad y la eternidad del alma.",
+        "imagen": "/Imperio/espiritu.png"
+    },
+    {
+        "nombre": "Bestiarium",
+        "descripcion": "Colección que desata el poder de las criaturas míticas y salvajes, donde bestias legendarias y monstruos olvidados emergen para reclamar su dominio sobre el mundo.",
+        "imagen": "/Imperio/bestiarium.png"
+    },
+    {
+        "nombre": "Onyria",
+        "descripcion": "Una colección que sumerge en mundos de fantasía y terror, donde héroes y criaturas de cuentos clásicos como Frankenstein y Alicia en el País de las Maravillas cobran vida en historias inolvidables.",
+        "imagen": "/Imperio/onyria.png"
+    },
+    {
+        "nombre": "Liberadores",
+        "descripcion": "Una colección que celebra la historia y mitología chilena, donde héroes como Bernardo OHiggins y Arturo Prat se encuentran con leyendas como el Caleuche y el Trauco, defendiendo la identidad y el espíritu de Chile.",
+        "imagen": "/Imperio/libertadores.png"
+    }
+]
+
+
